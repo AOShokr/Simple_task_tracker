@@ -54,4 +54,4 @@ Both "dicting" and "counts" are then passed back to main where they are displaye
 
 3. Using NumPy, implement some actual analytics to the program.
 
-I DO NOT plan to add any features that will making using the program any more complicated, nothing that will rely on extra input from the user. Knowing my ADHD brain if it takes more than a few seconds to input a task I will not be using it at all.
+I DO NOT plan to add any features that will making using the program any more complicated, nothing that will rely on extra input from the user. My goal is to minimize user interaction.
